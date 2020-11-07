@@ -1,0 +1,12 @@
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\bin\Debug\netcoreapp3.1\Esercizio.BL.deps.json
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\bin\Debug\netcoreapp3.1\Esercizio.BL.dll
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\bin\Debug\netcoreapp3.1\Esercizio.BL.pdb
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\bin\Debug\netcoreapp3.1\Esercizio.DAL.dll
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\bin\Debug\netcoreapp3.1\Esercizio.DAL.pdb
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\obj\Debug\netcoreapp3.1\Esercizio.BL.csprojAssemblyReference.cache
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\obj\Debug\netcoreapp3.1\Esercizio.BL.csproj.CoreCompileInputs.cache
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\obj\Debug\netcoreapp3.1\Esercizio.BL.AssemblyInfoInputs.cache
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\obj\Debug\netcoreapp3.1\Esercizio.BL.AssemblyInfo.cs
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\obj\Debug\netcoreapp3.1\Esercizio.BL.csproj.CopyComplete
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\obj\Debug\netcoreapp3.1\Esercizio.BL.dll
+C:\Users\varenro1\Documents\Formazione\Percorso circolare\Services & Data\Lezione 3\Esercizio\Esercizio.BL\obj\Debug\netcoreapp3.1\Esercizio.BL.pdb
